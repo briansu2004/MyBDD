@@ -1,0 +1,15 @@
+{
+  "name": "cucumber-friday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "keywords": [],
+  "author": "Brian Su",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^6.0.5"
+  }
+}
